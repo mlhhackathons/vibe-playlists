@@ -64,6 +64,7 @@ npm run dev
 cd backend
 npm install
 wrangler dev
-=======
+```
+
 👉 Go ahead. Type your vibe. Let the beat do the rest.
 
